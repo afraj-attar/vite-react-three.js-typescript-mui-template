@@ -1,14 +1,17 @@
 {
   "name": "@afraj-attar/vite-react-three.js-typescript-mui-template",
   "private": false,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A template for writing code in three.js and react in typescript",
   "author": "Afraj Attar",
   "homepage": "https://afraj-attar.github.io/vite-react-three.js-typescript-mui-template/",
   "license": "ISC",
-  "repository": "git://github.com/afraj-attar/vite-react-three.js-typescript-mui-template.git",
   "publishConfig": {
-    "@afraj-attar:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com/afraj-attar"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/afraj-attar/vite-react-three.js-typescript-mui-template.git"
   },
   "scripts": {
     "dev": "vite",
