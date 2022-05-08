@@ -1,5 +1,6 @@
-import { Home } from "@mui/icons-material";
-import { Grid, IconButton } from "@mui/material";
+import Home from "@mui/icons-material/Home";
+import Grid from "@mui/material/Grid";
+import IconButton from "@mui/material/IconButton";
 import { ReactElement } from "react";
 
 interface ToolBarProps {
