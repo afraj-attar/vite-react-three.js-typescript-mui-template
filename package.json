@@ -1,6 +1,6 @@
 {
   "name": "@afraj-attar/vite-react-three.js-typescript-mui-template",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "description": "A template for writing code in three.js and react in typescript",
   "author": "Afraj Attar",
