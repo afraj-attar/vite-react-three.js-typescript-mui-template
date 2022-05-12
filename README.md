@@ -4,7 +4,7 @@ Reusable Template code with Vite+React+Three.js+Material UI+Typescript
 ## How to run the Project
 ```javscript
 npm install 
-npm run start
+npm run dev
 ```
 
 ## Live
