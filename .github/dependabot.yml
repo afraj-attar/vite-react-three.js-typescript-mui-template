@@ -4,6 +4,6 @@ updates:
     directory: "./"
     open-pull-requests-limit: 10
     reviewers:
-      - Afraj Attar
+      - afraj-attar
     schedule:
       interval: "daily"
